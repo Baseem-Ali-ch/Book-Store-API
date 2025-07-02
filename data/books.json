@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1ca0655c-bebd-4298-8777-cb00e31c2643",
+    "title": "Atomic Habit",
+    "author": " James Clear",
+    "genre": "Self-help",
+    "publishedYear": 2018,
+    "userId": "efa73e9a-2774-45aa-956f-a523ba7cde6b"
+  },
+  {
+    "id": "fa1fdf8d-ec52-4c0e-bc13-fd916d07c656",
+    "title": "Rejection Proof",
+    "author": "Jia Jiang",
+    "genre": "Self-help",
+    "publishedYear": 2015,
+    "userId": "efa73e9a-2774-45aa-956f-a523ba7cde6b"
+  },
+  {
+    "id": "88a6594f-76cb-417c-a7b8-5fc8193bffb4",
+    "title": "Test Book",
+    "author": " by test",
+    "genre": "Self-help",
+    "publishedYear": 2025,
+    "userId": "efa73e9a-2774-45aa-956f-a523ba7cde6b"
+  }
+]
