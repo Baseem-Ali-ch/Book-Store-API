@@ -13,7 +13,7 @@ A RESTful API for managing a book store with features like user authentication, 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Baseem-Ali-ch/Book-Store-API.git
 cd book-store-api
 ```
 
